@@ -49,14 +49,12 @@ nav ul li a {
     font-size: 18px !important;
 }
 
-.overlaytext{
-    z-index: 10000 !important;
+
+.card-img{
+    opacity: 0.6 !important;
     color: #fff;
     font-weight: 800;
     text-align: center;
-}
-.card-img{
-    opacity: 0.6 !important;
 }
 
 
